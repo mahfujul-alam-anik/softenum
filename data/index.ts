@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Fluently worked with multiple libraries & state management.",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -72,68 +72,80 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
+    title: "Online transportation system for Albania",
+    des: "The ultimate solution for convenient and reliable transportation. With our cutting edge app, your travel experience is redefined.",
+    img: "/clust.jpg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://clust.al/en/",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
+    title: "Templin.pro | Portfolio Website",
+    des: "A modern and animated portfolio website for a Cloud Engineer.",
+    img: "/templin.jpg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "https://templin.pro/",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    title: "Legal Trademark Office | Business Website",
+    des: "A fully functional Business Trademark application with fast and well handled rich form.",
+    img: "/legal_trademark_office.jpg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    link: "https://www.legaltrademarkoffice.com/",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    title: "Pro Scribe | SAAS",
+    des: "A AI powered SAAS application that can generate compelling content that engages and captivates your audience.",
+    img: "/pro_scribe.jpg",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://pro-scribe.com/",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Anik was transformative for our project. His expertise in web development and keen eye for design made our platform not only functional but visually stunning. The results exceeded our expectations, and we've seen a noticeable increase in user engagement. Anik is a true professional.",
+    name: "Sarah Thompson",
+    title: "CEO of Secure Your Mark",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Anik's dedication and attention to detail are unparalleled. He took the time to understand our business needs and delivered a custom app that has streamlined our operations. His technical skills and commitment to quality are top-notch. We couldn't be happier with the outcome.",
+    name: "David Chen",
+    title: "COO of Clust",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Anik brought our vision to life with his exceptional development skills. His ability to translate complex ideas into a user-friendly interface was exactly what we needed. The project was completed on time and exceeded our expectations. I highly recommend Anik for any web or app development needs.",
+    name: "Emily Rodriguez",
+    title: "Project Manager at Systobase",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Anik is a developer who truly understands the balance between functionality and aesthetics. He delivered a robust, scalable app that has already made a significant impact on our business. His professionalism and responsiveness throughout the project were impressive.",
+    name: "Templin",
+    title: "Templin.pro",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "I was impressed with Anik's ability to quickly grasp our requirements and deliver a polished product. His work on our website has greatly improved our online presence, and we've received numerous compliments on the new design. Anik is a pleasure to work with and highly skilled in his craft.",
+    name: "Lisa Nguyen",
+    title: "Marketing Director at ZeviTech",
+  },
+  {
+    quote:
+      "Anik's technical prowess and creative approach to problem-solving were exactly what we needed for our project. He delivered a seamless user experience that has made a significant difference in how our clients interact with our services. I would gladly work with Anik again.",
+    name: "Robert Williams",
+    title: "Founder of Secure Your Mark",
+  },
+  {
+    quote:
+      "From the initial consultation to the final delivery, Anik's commitment to our project was evident. He developed a custom solution that not only met but exceeded our expectations. His expertise in both web and app development is second to none.",
+    name: "Sophia Garcia",
+    title: "Head of Product at Clust",
   },
 ];
 
@@ -174,14 +186,14 @@ export const workExperience = [
   {
     id: 1,
     title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    desc: "Assisted in the development of a web-based platform using React.js, Next.js enhancing interactivity.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Mobile App Dev - Systobase",
+    desc: "Designed and developed RESTful API for mobile app for both iOS & Android platforms..",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
@@ -205,13 +217,11 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-  },
-  {
-    id: 2,
-    img: "/twit.svg",
+    link: "https://github.com/mahfujul-alam-anik/",
   },
   {
     id: 3,
     img: "/link.svg",
+    link: "https://bd.linkedin.com/in/mahfujul-alam-anik-41b19a272",
   },
 ];
