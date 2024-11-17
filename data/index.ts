@@ -71,6 +71,14 @@ export const gridItems = [
 
 export const projects = [
   {
+    id: 0,
+    title: "Secure Your Mark",
+    des: "At Secure Your Mark, They offer expert trademark registration services to protect business name, logo, and brand identity.",
+    img: "/secure_your_mark.jpg",
+    iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
+    link: "https://secureyourmark.com/",
+  },
+  {
     id: 1,
     title: "Online transportation system for Albania",
     des: "The ultimate solution for convenient and reliable transportation. With our cutting edge app, your travel experience is redefined.",
@@ -99,8 +107,24 @@ export const projects = [
     title: "Pro Scribe | SAAS",
     des: "A AI powered SAAS application that can generate compelling content that engages and captivates your audience.",
     img: "/pro_scribe.jpg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg"],
     link: "https://pro-scribe.com/",
+  },
+  {
+    id: 5,
+    title: "Living Legacy | Sales Funnel",
+    des: "Create and preserve your loved one's legacy. Share photos, videos, memories, music, family information and more with each scan of our Living Legacy QR medallion or each share of our Living Legacy memorial page",
+    img: "/living_legacy.jpg",
+    iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/fm.svg", "/gsap.svg"],
+    link: "https://buylivinglegacyqr.com/",
+  },
+  {
+    id: 5,
+    title: "Provides funding for individual and organizations",
+    des: "Assist the President with credit applications and account maintenance tasks. Work shift schedule is a fixed work schedule where employees work from own schedule.",
+    img: "/fundingpatnerships.jpg",
+    iconLists: ["/next.svg", "/re.svg", "/tail.svg"],
+    link: "http://fundingpatnerships.com/",
   },
 ];
 
@@ -108,19 +132,19 @@ export const testimonials = [
   {
     quote:
       "Working with Anik was transformative for our project. His expertise in web development and keen eye for design made our platform not only functional but visually stunning. The results exceeded our expectations, and we've seen a noticeable increase in user engagement. Anik is a true professional.",
-    name: "Sarah Thompson",
+    name: "Danish",
     title: "CEO of Secure Your Mark",
   },
   {
     quote:
       "Anik's dedication and attention to detail are unparalleled. He took the time to understand our business needs and delivered a custom app that has streamlined our operations. His technical skills and commitment to quality are top-notch. We couldn't be happier with the outcome.",
-    name: "David Chen",
+    name: "Sefar",
     title: "COO of Clust",
   },
   {
     quote:
       "Anik brought our vision to life with his exceptional development skills. His ability to translate complex ideas into a user-friendly interface was exactly what we needed. The project was completed on time and exceeded our expectations. I highly recommend Anik for any web or app development needs.",
-    name: "Emily Rodriguez",
+    name: "Shantosh",
     title: "Project Manager at Systobase",
   },
   {
@@ -132,20 +156,26 @@ export const testimonials = [
   {
     quote:
       "I was impressed with Anik's ability to quickly grasp our requirements and deliver a polished product. His work on our website has greatly improved our online presence, and we've received numerous compliments on the new design. Anik is a pleasure to work with and highly skilled in his craft.",
-    name: "Lisa Nguyen",
+    name: "Faiz Hasan",
     title: "Marketing Director at ZeviTech",
   },
   {
     quote:
       "Anik's technical prowess and creative approach to problem-solving were exactly what we needed for our project. He delivered a seamless user experience that has made a significant difference in how our clients interact with our services. I would gladly work with Anik again.",
-    name: "Robert Williams",
+    name: "Danish",
     title: "Founder of Secure Your Mark",
   },
   {
     quote:
       "From the initial consultation to the final delivery, Anik's commitment to our project was evident. He developed a custom solution that not only met but exceeded our expectations. His expertise in both web and app development is second to none.",
-    name: "Sophia Garcia",
+    name: "Joy",
     title: "Head of Product at Clust",
+  },
+  {
+    quote:
+      "Thank you, Anik. Working with Anik has been a pleasure. If you are looking for an experienced programmer that tends to respond to requests with 'I can do that`, 'I can change that', 'No problem', then look no further. His profile is absolutely correct in that he is passionate about what he does!",
+    name: "acoulte",
+    title: "Manager at Living Legacy",
   },
 ];
 

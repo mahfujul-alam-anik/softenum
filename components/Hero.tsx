@@ -7,6 +7,17 @@ import { TextGenerateEffect } from "./ui/TextGenerateEffect";
 const Hero = () => {
   return (
     <div className="pb-20 pt-36">
+      <section className="absolute">
+        <h1>Softenum | Mahfujul Alam Anik | Software Developer.</h1>
+        <h1>
+          A full Web & App solution to Transforming Concepts into Seamless User
+          Experiences for Business Growth.
+        </h1>
+        <p>
+          A full Web & App solution to Transforming Concepts into Seamless User
+          Experiences for Business Growth.
+        </p>
+      </section>
       {/**
        *  UI: Spotlights
        *  Link: https://ui.aceternity.com/components/spotlight
