@@ -105,7 +105,7 @@ export const projects = [
   {
     id: 4,
     title: "Pro Scribe | SAAS",
-    des: "A AI powered SAAS application that can generate compelling content that engages and captivates your audience.",
+    des: "A full Web & App solution to Transforming Concepts into Seamless User Experiences for Business Growth.",
     img: "/pro_scribe.jpg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg"],
     link: "https://pro-scribe.com/",
