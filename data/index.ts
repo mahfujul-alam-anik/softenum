@@ -71,6 +71,22 @@ export const gridItems = [
 
 export const projects = [
   {
+    id: 7,
+    title: "Comprolog",
+    des: "One Stop Solutions To All Business Needs Through Intelligent Automation.",
+    img: "/comprolog.gif",
+    iconLists: [
+      "/next.svg",
+      "/re.svg",
+      "/tail.svg",
+      "/ts.svg",
+      "/fm.svg",
+      "/gsap.svg",
+      "cloud.svg",
+    ],
+    link: "https://www.comprolog.com/",
+  },
+  {
     id: 0,
     title: "Secure Your Mark",
     des: "At Secure Your Mark, They offer expert trademark registration services to protect business name, logo, and brand identity.",
@@ -119,7 +135,7 @@ export const projects = [
     link: "https://buylivinglegacyqr.com/",
   },
   {
-    id: 5,
+    id: 6,
     title: "Provides funding for individual and organizations",
     des: "Assist the President with credit applications and account maintenance tasks. Work shift schedule is a fixed work schedule where employees work from own schedule.",
     img: "/fundingpatnerships.jpg",
