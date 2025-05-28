@@ -142,6 +142,14 @@ export const projects = [
     iconLists: ["/next.svg", "/re.svg", "/tail.svg"],
     link: "http://fundingpatnerships.com/",
   },
+  {
+    id: 8,
+    title: "Science Technology Engineering Dynamics",
+    des: "Research and Development, a Pathway to Innovation and Global Sustainability",
+    img: "/steid.jpg",
+    iconLists: ["/next.svg", "/re.svg", "/tail.svg"],
+    link: "https://www.steid.org/",
+  },
 ];
 
 export const testimonials = [
@@ -230,11 +238,18 @@ export const companies = [
 
 export const workExperience = [
   {
+    id: 5,
+    title: "Software Engineer(II) at Comprolog",
+    desc: "Full-Stack software developer role at comprolog to build, design software and communicate with clients ",
+    className: "md:col-span-2",
+    thumbnail: "/exp1.svg",
+  },
+  {
     id: 1,
     title: "Frontend Engineer Intern",
     desc: "Assisted in the development of a web-based platform using React.js, Next.js enhancing interactivity.",
     className: "md:col-span-2",
-    thumbnail: "/exp1.svg",
+    thumbnail: "/exp3.svg",
   },
   {
     id: 2,
